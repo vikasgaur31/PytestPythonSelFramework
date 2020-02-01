@@ -1,0 +1,160 @@
+2020-01-30 11:43:08,166, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 11:43:08,583, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 11:43:14,267, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 11:43:14,482, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 11:43:14,483, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 11:43:35,520, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 11:43:36,558, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 11:43:36,558, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 12:19:22,587, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 12:19:23,735, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 12:19:57,328, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 12:19:58,274, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 12:19:58,274, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 12:31:29,403, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 12:31:29,976, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 12:31:35,278, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 12:31:35,479, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 12:31:35,479, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 12:37:31,556, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 12:37:31,942, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 12:37:37,549, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 12:37:37,719, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 12:37:37,719, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 12:39:23,462, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 12:39:24,041, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 12:39:29,702, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 12:39:29,918, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 12:39:29,918, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 12:51:15,129, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 12:51:15,654, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 12:51:21,149, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 12:51:21,294, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 12:51:21,294, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 13:00:57,936, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 13:00:58,428, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 13:01:04,146, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 13:01:04,313, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 13:01:04,314, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 13:51:13,868, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 13:51:14,258, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 13:51:19,672, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 13:51:19,757, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 13:51:19,757, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 13:52:49,535, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 13:52:49,865, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 13:52:55,407, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 13:52:55,572, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 13:52:55,572, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 13:55:06,556, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 13:55:07,223, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 13:55:12,670, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 13:55:12,753, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 13:55:12,754, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 13:58:01,779, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 13:58:02,158, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 13:58:07,624, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 13:58:07,774, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 13:58:07,774, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 14:01:51,690, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 14:01:52,291, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 14:01:57,959, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 14:01:58,118, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 14:01:58,118, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 14:02:15,295, : INFO : test_formSubmission  : first name is - Test1
+2020-01-30 14:02:15,469, : INFO : test_formSubmission  : first name is - test1@xyz.com
+2020-01-30 14:02:15,589, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 14:02:15,704, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 14:02:16,028, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 14:02:16,028, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 14:02:16,133, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 14:02:16,133, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 14:02:16,223, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 14:02:16,223, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 14:02:16,536, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 14:02:16,536, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 14:04:52,599, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 14:04:52,984, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 14:04:58,356, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 14:04:58,436, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 14:04:58,436, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 14:05:15,097, : INFO : test_formSubmission  : first name is - Test1
+2020-01-30 14:05:15,278, : INFO : test_formSubmission  : first name is - test1@xyz.com
+2020-01-30 14:05:15,392, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 14:05:15,507, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 14:05:15,880, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 14:05:15,880, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 14:05:16,010, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 14:05:16,010, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 14:05:16,097, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 14:05:16,097, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 14:05:16,225, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 14:05:16,225, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:10:48,192, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 16:10:48,498, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 16:10:54,173, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 16:10:54,309, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 16:10:54,309, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 16:11:11,433, : INFO : test_formSubmission  : first name is - Test1
+2020-01-30 16:11:11,573, : INFO : test_formSubmission  : first name is - test1@xyz.com
+2020-01-30 16:11:11,648, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:11:11,955, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:11:12,066, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 16:11:12,066, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 16:11:12,177, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 16:11:12,177, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 16:11:12,254, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:11:12,254, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:11:12,530, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:11:12,530, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:27:54,965, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 16:27:55,360, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 16:28:00,814, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 16:28:01,027, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 16:28:01,027, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 16:28:17,959, : INFO : test_formSubmission  : first name is - Test1
+2020-01-30 16:28:18,102, : INFO : test_formSubmission  : first name is - test1@xyz.com
+2020-01-30 16:28:18,191, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:28:18,506, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:28:18,631, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 16:28:18,631, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 16:28:18,774, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 16:28:18,774, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 16:28:18,859, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:28:18,859, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:28:19,158, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:28:19,158, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:55:20,744, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 16:55:21,174, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 16:55:26,603, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 16:55:26,694, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 16:55:26,694, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 16:55:45,870, : INFO : test_formSubmission  : first name is - Test1
+2020-01-30 16:55:46,016, : INFO : test_formSubmission  : first name is - test1@xyz.com
+2020-01-30 16:55:46,157, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:55:46,533, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:55:46,662, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 16:55:46,662, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 16:55:46,822, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 16:55:46,822, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 16:55:46,910, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:55:46,910, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 16:55:47,316, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 16:55:47,316, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 20:26:35,109, : INFO : test_e2e  : E2E - Shop menu Page is correctly opened
+2020-01-30 20:26:35,813, : INFO : test_e2e  : E2E - Product is add to cart
+2020-01-30 20:26:41,388, : INFO : test_e2e  : E2E - INDIA is selected for the delivery
+2020-01-30 20:26:41,647, : INFO : test_e2e  : testE2E - Order Placed
+2020-01-30 20:26:41,647, : INFO : test_e2e  : E2E - Order is placed successfully
+2020-01-30 20:27:00,687, : INFO : test_formSubmission  : first name is - Test1
+2020-01-30 20:27:00,866, : INFO : test_formSubmission  : first name is - test1@xyz.com
+2020-01-30 20:27:01,050, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 20:27:01,518, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 20:27:01,706, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 20:27:01,706, : INFO : test_formSubmission  : first name is - Test2
+2020-01-30 20:27:01,882, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 20:27:01,882, : INFO : test_formSubmission  : first name is - test2@xyz.com
+2020-01-30 20:27:02,010, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 20:27:02,010, : INFO : test_formSubmission  : first name is - 1234
+2020-01-30 20:27:02,362, : INFO : test_formSubmission  : test_homepage - Order Placed
+2020-01-30 20:27:02,362, : INFO : test_formSubmission  : test_homepage - Order Placed
